@@ -6,12 +6,7 @@ const Wrapper = styled.div`
   padding: 50px 100px 50px 0px;
   font-size:30px;
   img {
-    margin-right: 10px;
-    height: 60px;
-    width: 60px;
-    border: 1px solid rgba(0,0,0,0.1);
-    border-radius: 100%;
-    margin-bottom: -8px;
+    padding-right: 10px;
   }
 `
 
